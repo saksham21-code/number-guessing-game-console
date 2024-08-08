@@ -38,10 +38,6 @@ This is a console-based number guessing game implemented using Spring Framework.
     mvn clean install
     ```
 
-3. **Run the application**:
-    ```sh
-    mvn exec:java -Dexec.mainClass="com.example.NumberGuessingGame"
-    ```
 
 ## How to Play
 
